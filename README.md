@@ -133,8 +133,8 @@ endmodule
 ---
 
 ## 👤 Author
-- **Nevil Lunagariya**  
-  Roll Number: 2BEC068  
+- **Prince Viradiya**  
+  Roll Number: 2BEC144  
   Semester IV, 2EC202 – FPGA-based System Design  
   Institute of Technology, Nirma University  
   Department of Electronics and Communication Engineering  
